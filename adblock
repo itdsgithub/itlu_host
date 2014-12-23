@@ -616,3 +616,11 @@
 127.0.0.1 file.ipinyou.com.cn
 127.0.0.1 stats.ipinyou.com
 #AdBlock END
+
+#habit browser
+127.0.0.1 static.zucks.net.zimg.jp
+127.0.0.1 spap.adingo.jp.eimg.jp
+127.0.0.1 sh.zucks.net
+127.0.0.1 k.zucks.net
+127.0.0.1 j.zucks.net.zimg.jp
+#habit end
