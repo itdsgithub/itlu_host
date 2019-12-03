@@ -1,0 +1,93 @@
+#小米电视广告
+127.0.0.1 *.market.xiaomi.com
+127.0.0.1 f1.market.xiaomi.com
+127.0.0.1 f2.market.xiaomi.com
+127.0.0.1 f3.market.xiaomi.com
+127.0.0.1 f4.market.xiaomi.com
+127.0.0.1 f5.market.xiaomi.com
+127.0.0.1 t1.a.market.xiaomi.com
+127.0.0.1 t2.a.market.xiaomi.com
+127.0.0.1 t3.a.market.xiaomi.com
+127.0.0.1 t4.a.market.xiaomi.com
+127.0.0.1 t5.a.market.xiaomi.com
+
+127.0.0.1 *.market.mi-img.com
+127.0.0.1 f1.market.mi-img.com
+127.0.0.1 f2.market.mi-img.com
+127.0.0.1 f3.market.mi-img.com
+127.0.0.1 f4.market.mi-img.com
+127.0.0.1 f5.market.mi-img.com
+
+127.0.0.1 *.ad.mi.com
+127.0.0.1 *.ad.xiaomi.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 new.api.ad.xiaomi.com
+127.0.0.1 ad1.xiaomi.com
+127.0.0.1 o2o.api.xiaomi.com
+
+127.0.0.1 *.pandora.mi.com
+127.0.0.1 *.pandora.xiaomi.com
+127.0.0.1 assistant.pandora.xiaomi.com
+127.0.0.1 bss.pandora.xiaomi.com
+127.0.0.1 de.pandora.xiaomi.com
+127.0.0.1 dvb.pandora.xiaomi.com
+127.0.0.1 gallery.pandora.xiaomi.com
+127.0.0.1 jellyfish.pandora.xiaomi.com
+127.0.0.1 misc.pandora.xiaomi.com
+127.0.0.1 mishop.pandora.xiaomi.com
+127.0.0.1 starfish.pandora.xiaomi.com
+127.0.0.1 upgrade.mishop.pandora.xiaomi.com
+
+127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 tracking.miui.com
+127.0.0.1 tat.pandora.xiaomi.com
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 t7z.cupid.ptqy.gitv.tv
+
+#其他广告商的广告
+ #京东
+127.0.0.1 im-x.jd.com
+
+#友盟+
+127.0.0.1 *.umeng.com
+127.0.0.1 alog.umeng.com
+
+#酷云监播
+127.0.0.1 *.kuyun.com
+127.0.0.1 alert.kuyun.com
+127.0.0.1 config.kuyun.com
+127.0.0.1 identify.tv.kuyun.com
+127.0.0.1 regist.tv.kuyun.com
+127.0.0.1 strawberry.kuyun.com
+127.0.0.1 tvapi.kuyun.com
+
+#广东南方新媒体股份
+127.0.0.1 *.atianqi.com
+127.0.0.1 tv.aiseet.atianqi.com
+127.0.0.1 gvod.aiseejapp.atianqi.com
+127.0.0.1 omgmta.play.aiseet.atianqi.com
+127.0.0.1 vv.play.aiseet.atianqi.com
+
+ #银河互联网电视
+127.0.0.1 auth.api.gitv.tv
+127.0.0.1 appstore.ptmi.gitv.tv
+127.0.0.1 gamecenter.ptmi.gitv.tv
+
+ # 上海贞安精硕广告有限公司
+127.0.0.1 *.admaster.com.cn
+127.0.0.1 v.admaster.com.cn
+127.0.0.1 79t2.admaster.com.cn
+127.0.0.1 397c0.admaster.com.cn
+
+# “秒针系统”广告
+127.0.0.1 *.miaozhen.com
+
+ #粤象传媒
+127.0.0.1 *.zscctv.cn
+
+# ==== 不知名网址  我也不知道这是啥  网上搜集到的 ====
+127.0.0.1 g.dtv.cn.miaozhan.com
+127.0.0.1 k5.gslb.ksyuncdn.com
+127.0.0.1 secure-chn.imrworldwide.com
+127.0.0.1 ad.doubleclick.net
